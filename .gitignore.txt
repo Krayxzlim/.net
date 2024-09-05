@@ -1,0 +1,6 @@
+# cache de vs
+.vs/
+
+# builds
+bin/
+obj/
